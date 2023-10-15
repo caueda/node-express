@@ -6,6 +6,10 @@ const DUMMY_USERS = [
     {
         id: 'u1',
         name: 'Carlos Roberto Ueda'
+    },
+    {
+        id: 'u2',
+        name: 'Júlia Harue Lira Ueda'
     }
 ];
 
